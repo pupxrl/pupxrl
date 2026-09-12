@@ -1,8 +1,8 @@
 <div align="center">
 
 <pre>
-rest
-web / creative dev
+jude
+full-stack web / creative dev
 </pre>
 
 <br>
